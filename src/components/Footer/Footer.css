@@ -1,0 +1,8 @@
+/* Styles for semantic-ui elements */
+.ui.vertical.stripe.segment {
+  padding: 3rem 0; }
+  .ui.vertical.stripe.segment:nth-of-type(even) {
+    background-color: rgba(0, 0, 0, 0.03); }
+
+footer > .ui.vertical.stripe.segment {
+  background-color: rgba(0, 0, 0, 0.06); }

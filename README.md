@@ -1,1 +1,0 @@
-# react-razzle-graphql-redux
